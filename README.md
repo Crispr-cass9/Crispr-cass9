@@ -1,5 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center"> Hola a todos, Yo soy Cristian muñoz 👋 </h1>
+</div>
 ![Alt text](Banner_git_hub_finalizado.png)
+
+<div >
+  
+![GitHub followers](https://img.shields.io/github/followers/crispr-cas9?style=for-the-badge&logo=github&&logoColor=%23FFFFFF&labelColor=%23138ecb)
+https://img.shields.io/twitch/status/crispr_cass9?style=for-the-badge&logo=twitch&logoColor=%23FFFFFF&labelColor=%2523138ecb
+https://dcbadge.vercel.app/api/shield/https://dcbadge.vercel.app/api/shield/
+</div>
+
 <!--
 **Crispr-cass9/Crispr-cass9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
