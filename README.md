@@ -52,15 +52,15 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crispr-cass9&show_icons=true&theme=radical)
+  ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crispr-cass9&show_icons=true&theme=dark)
 
   <br></br>
-  <img decoding="async" loading="lazy" alt="Cristian Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Crispr-cass9&theme=dark&hide_border=false" /> 
+  ![Cristian's stats](https://github-readme-streak-stats.herokuapp.com/?user=Crispr-cass9&theme=dark&hide_border=false) 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Crispr-cass9&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crispr-cass9&theme=dark&size_weight=0.5&count_weight=0.5)
   
   </td>
 </tr>
