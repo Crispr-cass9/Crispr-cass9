@@ -11,11 +11,11 @@
     ![Twitch Status](https://img.shields.io/twitch/status/crispr_cass9?style=for-the-badge&logo=twitch&logoColor=%23FFFFFF&labelColor=%2523138ecb)
   </a>
   
-<div style="display: flex; flex-flow: row nowrap; align-items: center; justify-content: center; border: solid; height: 100px;">
+<div style=" display: flex; flex-flow: row nowrap; align-items: center; justify-content: center; border: solid red 2px; height: 100px;">
 
-  <h2 style="height: 50px; text-align: center; display: flex; align-items: center; margin: 0;">Aquí encontrarás código en:</h2>
+  <h2 style="border:solid; height: 50px; text-align: center; display: flex; align-items: center; margin: 0;">Aquí encontrarás código en:</h2>
 
-  <img style=" width: 130px; height: 120px; margin-left:10px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1000&color=E7D9A1&vCenter=true&random=false&width=130&height=50&lines=Python;JavaScript;C%2B%2B;PHP;SQL;Arduino" alt="Typing SVG" />
+  <img style="border:solid; width: 130px; height: 120px; margin-left:10px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1000&color=E7D9A1&vCenter=true&random=false&width=200&height=50&lines=Python;JavaScript;PHP;SQL;Arduino" alt="Typing SVG" />
 
 </div>
 
