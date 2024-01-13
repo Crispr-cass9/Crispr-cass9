@@ -2,7 +2,7 @@
   <h1 align="center"> Hola a todos, Yo soy Cristian muñoz 👋 </h1>
 </div>
 
-![Alt text](Banner_git_hub_finalizado.png)
+![Alt text](Banner_git_hub_finalizado (1).png)
 
 <!-- Comienzo de badges --> 
 <div>
