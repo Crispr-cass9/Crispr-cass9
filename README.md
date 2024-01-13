@@ -26,6 +26,7 @@
 
   
 <!-- Comienzo de lo que encontrarás en el repositorio -->
+<br>
 
 <table align="center" style="width: 500px">
 <tr border="none">
@@ -43,6 +44,7 @@
 
 
 <!-- Comienzo de github analytics-->
+<br>
 
 <table align="center">
 <tr border="none">
