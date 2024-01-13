@@ -10,7 +10,10 @@
   <a href="https://www.twitch.tv/crispr_cass9">
     ![Twitch Status](https://img.shields.io/twitch/status/crispr_cass9?style=for-the-badge&logo=twitch&logoColor=%23FFFFFF&labelColor=%2523138ecb)
   </a>
-  
+  <a href="https://www.discordapp.com/users/540369603843325979">
+    ![](https://dcbadge.vercel.app/api/shield/540369603843325979)  
+  </a>
+<br>
 <div style=" display: flex; flex-flow: row nowrap; align-items: center; justify-content: center; border: solid red 2px; height: 100px;">
 
   <h2 style="border:solid; height: 50px; text-align: center; display: flex; align-items: center; margin: 0;">Aquí encontrarás código en:</h2>
