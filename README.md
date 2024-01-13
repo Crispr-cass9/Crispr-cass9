@@ -2,17 +2,28 @@
   <h1 align="center"> Hola a todos, Yo soy Cristian muñoz 👋 </h1>
 </div>
 
+<div>
+  <h1 display="inline-block">
+    tengo conocimientos de
+  </h1>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=E7D9A1&random=false&width=435&lines=Python;JavaScript;C%2B%2B;PHP;SQL;Arduino)](https://git.io/typing-svg)
+</div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 ![Alt text](Banner_git_hub_finalizado.png)
 
 <div >
-
-![GitHub followers](https://img.shields.io/github/followers/crispr-cas9?style=for-the-badge&logo=github&&logoColor=%23FFFFFF&labelColor=%23138ecb)
-<a href="https://www.twitch.tv/crispr_cass9">
-  ![Twitch Status](https://img.shields.io/twitch/status/crispr_cass9?style=for-the-badge&logo=twitch&logoColor=%23FFFFFF&labelColor=%2523138ecb)
-</a>
-<a href="https://www.discordapp.com/users/540369603843325979">
-  ![](https://dcbadge.vercel.app/api/shield/540369603843325979)  
-</a>
+  
+  ![GitHub followers](https://img.shields.io/github/followers/crispr-cas9?style=for-the-badge&logo=github&&logoColor=%23FFFFFF&labelColor=%23138ecb)
+  <a href="https://www.twitch.tv/crispr_cass9">
+    ![Twitch Status](https://img.shields.io/twitch/status/crispr_cass9?style=for-the-badge&logo=twitch&logoColor=%23FFFFFF&labelColor=%2523138ecb)
+  </a>
+  <a href="https://www.discordapp.com/users/540369603843325979">
+    ![](https://dcbadge.vercel.app/api/shield/540369603843325979)  
+  </a>
 </div>
 
 <!--
