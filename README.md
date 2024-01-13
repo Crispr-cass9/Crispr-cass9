@@ -2,13 +2,6 @@
   <h1 align="center"> Hola a todos, Yo soy Cristian muñoz 👋 </h1>
 </div>
 
-<div>
-  <h1 display="inline-block">
-    tengo conocimientos de
-  </h1>
- https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=E7D9A1&random=false&width=435&lines=Python;JavaScript;C%2B%2B;PHP;SQL;Arduino)](https://git.io/typing-svg
-</div>
-
 ![Alt text](Banner_git_hub_finalizado.png)
 
 <div >
@@ -18,7 +11,12 @@
     ![Twitch Status](https://img.shields.io/twitch/status/crispr_cass9?style=for-the-badge&logo=twitch&logoColor=%23FFFFFF&labelColor=%2523138ecb)
   </a>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1000&color=E7D9A1&random=false&width=435&height=20&lines=Python;JavaScript;C%2B%2B;PHP;SQL;Arduino" alt="Typing SVG" /></a>
+<div style="display: flex; flex-flow: row nowrap; align-items: center; justify-content: center; border: solid; height: 100px;">
+
+  <h2 style="height: 50px; text-align: center; display: flex; align-items: center; margin: 0;">Aquí encontrarás código en:</h2>
+
+  <img style=" width: 130px; height: 120px; margin-left:10px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1000&color=E7D9A1&vCenter=true&random=false&width=130&height=50&lines=Python;JavaScript;C%2B%2B;PHP;SQL;Arduino" alt="Typing SVG" />
+
 </div>
 
 <!--
